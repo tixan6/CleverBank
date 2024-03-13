@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebExp">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebExp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CleverBankTechnology" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="CleverBankTechnology/web/Web" />
+    </root>
+  </artifact>
+</component>
